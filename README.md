@@ -1,7 +1,6 @@
 # location_distance
 
-A new Flutter project.
-
+Giao diện cho phép nhập tọa  độ từ điểm này đến điểm khác sau đó thực hiện đo khoảng cách giữa 2 điểm
 ## Getting Started
 
 This project is a starting point for a Flutter application.
